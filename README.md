@@ -23,13 +23,13 @@ gs_ssp=eJzj4tZP1zcsSU_JiTdLM2C0UjWoME40NTIzNUi2TLQ0Sko2SrEyqDBJSUmzsDBKTE5MTjE0T
     <form>
     <table>
         <tr>
-            <td> Name</td><td><input type="text"placeholder="enter yourname"></td>
+            <td> Name</td><td><input type="text"></td>
         </tr>
         <tr>
-            <td>Age</td><td> <input type="number" placeholder="enter your age"> </td>
+            <td>Age</td><td> <input type="number"> </td>
         </tr>
         <tr>
-            <td>Academic year</td> <td><input type="year"placeholder="enter your year"></td>
+            <td>Academic year</td> <td><input type="year"></td>
         </tr>
         <tr>
             <td>  Departmen :</td> 
